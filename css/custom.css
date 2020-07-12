@@ -1,0 +1,22 @@
+body {
+  font-family: 'Noto Sans', sans-serif;
+}
+
+.info {
+  margin: 1em 0;
+}
+
+.post .post-title h3 {
+  text-transform: none;
+}
+
+.sidebar .logo-title .title a {
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+
+.sidebar .logo-title .title h3 {
+  letter-spacing: 1px;
+  text-transform: lowercase;
+}
+
