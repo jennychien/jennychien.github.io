@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>coming up roses</title>
+    <title>jenny | coming up roses</title>
     <link>https://bywhileone.com/</link>
-    <description>Recent content on coming up roses</description>
+    <description>Recent content on jenny | coming up roses</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
     <lastBuildDate>Sat, 11 Jul 2020 19:27:27 -0700</lastBuildDate>
     
-	<atom:link href="https://bywhileone.com/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://bywhileone.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,8 +16,7 @@
       <pubDate>Sat, 11 Jul 2020 19:27:27 -0700</pubDate>
       
       <guid>https://bywhileone.com/about/</guid>
-      <description>我是 jenny ，一個在矽谷打滾的軟體工程師，熱愛電影、書、美食、攝影、科技。
-適應不良的完美主義者，希望能藉由寫文章治癒。</description>
+      <description>我是 jenny ，一個在矽谷打滾的軟體工程師，熱愛電影、書、美食、攝影、科技。 適應不良的完美主義者，希望能藉由寫文章治癒。</description>
     </item>
     
   </channel>
