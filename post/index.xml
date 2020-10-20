@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Coming Up Roses</title>
+    <link>https://bywhileone.com/post/</link>
+    <description>Recent content in Posts on Coming Up Roses</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 26 Sep 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://bywhileone.com/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>電子書平台選擇指南</title>
+      <link>https://bywhileone.com/post/2020/where-to-get-ebooks/</link>
+      <pubDate>Sat, 26 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://bywhileone.com/post/2020/where-to-get-ebooks/</guid>
+      <description>Now you&amp;rsquo;re looking for the secret. But you won&amp;rsquo;t find it because of course, you&amp;rsquo;re not really looking.</description>
+    </item>
+    
+    <item>
+      <title>跟我一起養成閱讀習慣吧！</title>
+      <link>https://bywhileone.com/post/2020/develop-reading-habit/</link>
+      <pubDate>Mon, 31 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://bywhileone.com/post/2020/develop-reading-habit/</guid>
+      <description>To learn to read is to light a fire; every syllable that is spelled out is a spark.</description>
+    </item>
+    
+  </channel>
+</rss>
